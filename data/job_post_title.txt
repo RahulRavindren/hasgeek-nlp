@@ -190,7 +190,7 @@ Aspiring Webmaster Wanted
 Account Manager Big On Digital Dreams!
 Team Lead, Ruby
 Hackers needed to build a kickass payments platform - Zaakpay
-Senior Software Engineer â Platform Core
+Senior Software Engineer  Platform Core
 Need Super coder for a startup in social/dating space (salary+stock).
 PHP, MySQL, JQuery developer for Mumbai based startup
 Java/Ruby/C# Developers for Hyderabad
@@ -227,7 +227,7 @@ Excellent management interns
 Enthusiastic & Android Developer sought for a Fledgling Learning & Knowledge focused startup
 Graphic Designer - Intern & Full Time for a Sports Company. 
 Senior Software Engineer (Java), Platforms Engineering, Capillary Technologies
-PHP Developer
+PHP Developer*
 Kickass iPhone Developer
 HTML5 Programmer & UI Designer
 Android developer needed ! Complete the work in a month and get upto 30k INR!
@@ -405,7 +405,7 @@ Quality Assurance Engineer at Round One
 Awesome Coder wanted at Awesome Company
 Wordpress Development Guru
 Awesome Coder wanted at Awesome Company
-Lead developer for Floh, a start up thatâs changing the way singles meet and interact
+Lead developer for Floh, a start up that's changing the way singles meet and interact
 Web Developer wanted
 Team Lead for developments (tech lead)
 Android, Ios App Specialist 
@@ -507,7 +507,7 @@ PHP Developer@ WebDepot
 Front-end Engineer (HTML/CSS/JS) at Stealth Startup
 Sr. Software Engineer - Drupal/Symfony
 Software Architect + Action Junkie
-U âĽ Coding Fast & Responsive Apps? Java/Android Developer
+U love Coding Fast & Responsive Apps? Java/Android Developer
 iOS Developer for Enterprise Mobility startup
 Need content writer
 Android N-i-n-j-a needed for a challenging contract. Will be suitably rewarded.
@@ -1209,7 +1209,7 @@ Blackberry Apps Developer required
 M Tech Interns for Java / JQuery / Android
 Sales Manager wanted at Open School
 Technical Lead for a Sports and Digital start up
-A visual designer to create the best home dĂŠcor buying digital destination in the world
+A visual designer to create the best home  buying digital destination in the world
 Enthusiastic and talented Python developers to build innovative server side applications
 Jr. to Sr. Developer for Product Development at SoLoMo Salsa
 Full Stack Frontend Developer
@@ -1221,7 +1221,7 @@ iOS Mobile UI/UX Lead Designer for a new interactive social community backed by 
 Looking for Ruby on Rails Programmer
 Need engineers with passion for big data stats / analytics
 Looking for Zeo'code'r - Android
-âDevice Driver Developer - Android Kernel 
+Device Driver Developer - Android Kernel 
 Looking for Rails Developer
 A dreamer who can code
 Customer Care Executive required at IndiaReads.com
@@ -1469,7 +1469,7 @@ Technical Architect @ TechJini Solutions
 HTML, CSS, Javscript/jquery gurus
 Enthusiast CS intern wanted for a startup
 2+ years C++, OOPs, IPC & Multi-threading | Product startup
-Growth with the company CoStrategix â An excellent opportunity - PHP Developer
+Growth with the company CoStrategix An excellent opportunity - PHP Developer
 Cleartrip is looking for a designer
 Position of CTO in a Dial-a-Rickshaw startup
 analytics help - quick analytics on about 65000 records
@@ -1842,8 +1842,7 @@ Quality Assurance Specialist
 UI and UX designer
 hard core web developer needed for core team at @PriceCheckIndia
 Lead Developer needed for the "next' Instagram
-70,000 Rs/month + a startup culture  =  :-)  
-Supercomputer’s, Cryptography, FPGA’s.... Sounds exciting? 
+70,000 Rs/month + a startup culture 
 Senior Application Engineer for a High Performance Analytics and Big Data Product Startup
 Excellent Opportunity for Web Developer (Front End / Client Side)
 Web Designer opening
@@ -1855,7 +1854,7 @@ HR guy for mobile startup in Okhla II, Delhi
 Chief Breaker of Things (QA and Testing)
 Seasoned Front-End Developer { JavaScript, HTML, CSS } to build cutting edge enterprise products
 android developer required for developing apps in an e-learning startup
-Software Engineer â Full Stack at India's most liked educational company
+Software Engineer Full Stack at India's most liked educational company
 Intermediate PHP Developer wanted at In2Core Solutions
 Enthusiastic Python developers to build innovative server side applications
 Openings for Graphic Designer (+2)
@@ -1876,7 +1875,7 @@ Technical Lead (Ruby on Rails) at Floh - A Forbes Top 5 Start-up
 Get involved at the highest level of coding to become a successful iPhone developer
 Dot net Developer@perfectcloud
 Frontend Developer (0-2 Yrs, 3.5-6 LPA)
-Senior Product Developer, location GN, Pune, Taiwan, Singapore â Willing to travel
+Senior Product Developer, location GN, Pune, Taiwan, Singapore Willing to travel
 Looking for UI Developer/ UI Designer
 Openings for Android Developers
 Looking for a iOS & Android Developer
@@ -1891,7 +1890,7 @@ We're looking for a C# / MVC / JavaScript / WinPhone7 intern at PurpleBeak
 Creative marketing interns in high demand here
 Innovative & Hands-on HTML5 / JS / JQuery Developer 
 .Net Programmer wanted for MNC organisation
-If writing code is your religion, and gaming your God, then weâre looking for you!
+If writing code is your religion, and gaming your God, then we are looking for you!
 Front End Geek
 Love Computer Programming, we are looking for you
 embedded Engineer
@@ -2298,7 +2297,7 @@ Marketing Executive required for Product based company
 Magento Developer for bluegape.com - India's Biggest Fan Merchandise Store
 iOS developer @ www.roomys.in !
 Angular JS Developer wanted at Dynamic Chennai Based Web-Apps Startup!
-Ăber Hacker aka software engineer
+Uber Hacker aka software engineer
 Director of Engineering
 Senior Java/Python Developer @ Capitalfloat
 Lead product engineer who wants to learn everything about building a product
@@ -2598,7 +2597,7 @@ Need a web designer (PS/HTML/CSS/Jquery)
 UI Developer /Javascript Expert
 Evangelists in Big Data/Hadoop/PHP Developer 
 Android programmer ready to join a startup.
-Stanford/IIT Bombay team Looking for: a HACKER with a âĽ
+Stanford/IIT Bombay team Looking for: a HACKER with a heart
 Required: Web Developers (who love open/web standards)
 Java Web Leader & Developer @ Chennai , IN (One Man Army)
 Need help with Angular JS
@@ -2784,7 +2783,7 @@ Graphic Designer @ NewRubric Solutions
 PHP/ Facebook APP Project Lead 
 Python Developer with 3+ years experience for Bhopal Location
 Seasoned UI/UX Designer for a innovative information/interaction design agency
-Manager â Strategy, Corporate Development and Special Projects 
+Manager Strategy, Corporate Development and Special Projects 
 Operations & Logistics Manager
 Data Specialist Wanted
 Angular.js Developer  
@@ -2797,7 +2796,7 @@ Python Corporate Trainer required immediatly. Contact -9880134154
 Research Associates/Analysts at the Takshashila Institution
 Big Data Analyst wanted at dynamic tech startup
 Wordpress developer
-Stanford / IIT team Looking for: a HACKER with a âĽ
+Stanford / IIT team Looking for: a HACKER with a heart
 Technical Lead: Java Product Team
 We are hiring for HR Manager
 Scripting Wizards Needed
@@ -2834,7 +2833,6 @@ Android expert required with experience of around 1 year - Hyderabad
 Multimedia System software development
 Professional JavaScript and Python Programmers Wanted
 Tech Lead (Java: 4 - 8 yrs)
-Liferay UX‏
 Ruby on Rails/Web Architect 
 Android developer with minimum of 2 yrs exp for a startup based in BLR
 UI Designer
@@ -3229,7 +3227,7 @@ Looking for a lead designer.
 Content Writer for e-commerce products
 Rails Lead at Hatch Force
 Technology Analyst @ Fundwave
-Freshers â PHP Engineer @Explara : The Event Platform
+Freshers in PHP Engineer @Explara : The Event Platform
 jQuery / php programmer wanted in Udaipur for an exciting startup
 Mobility Engineer (iOS only) @Explara - The Event Platform
 If you're a Python Developer & are bored of all these listings, click here!
@@ -3579,7 +3577,6 @@ Data Scientist @ Cheapest Online
 Cool + Chilled + Content Writer + Cbse
 LAMP/Symfony2 expert with back/front-end skills for exciting new social network
 Full Stack Dev | Extremely Motivated | Exp in building B2B tools
-AppEngine • Java • BigData • Mobile
 Sr. Web Applications Engineer for  a VC funded company
 Lets go Digital @ MDS !! Required Head - Digital Publishing 
 Senior Mobile Developer (2+ Years) for a Software Product Development 
@@ -3643,7 +3640,7 @@ Front end developer
 Member , Design Group
 Technical Analyst -  LMS
 Looking for a Java programmer with 3+ years experience
-Solve Indiaâs Rape problem: Seeking A+ Full-stack Developer 
+Solve India's Rape problem: Seeking A+ Full-stack Developer 
 IKEA Type Furniture EComm Website Design
 E commerce/Magento Interns 
 Lead Developer for Mentors Guild
@@ -3812,7 +3809,7 @@ Data Scientist
 Wanted web designer for an exciting E commerce Startup
 looking for a content writer for travel app, trip38
 php guru
-Backend Geek at NotiĎ
+Backend Geek at Notid
 Looking for an expert Python / Java Play Framework guy
 J2EE architect wanted for a Singapore based startup (in stealth mode) in Bangalore
 Wanted Senior Operations Executive for an exciting E commerce Startup
@@ -4018,7 +4015,7 @@ Android developer needed for an "Entertaining" start up
 Embedded Software Engineer
 Backend Engineering at Idea Device
 Super expert UX designer / Company on project basis in Delhi for an education startup.
-"Test driven developersâ at a Product company
+"Test driven developers" at a Product company
 Support Samurai for ChargeBee
 Senior PHP Developer at MoAppz.com
 Android Developer required as CTO, for our startup MindSparx
@@ -4075,7 +4072,7 @@ Maverick Windows Sys Admin
 Connect, Network, Hunt  |  Business Developer Sought
 Web Designer / Developer
 Backend Developer
-Developer wantedâto build things and experiment online. PHP + anything
+Developer wanted to build things and experiment online. PHP + anything
 Web Developer at Hewlett-Packard (3-6 years exp)
 Senior PHP guy needed!!
 Looking for 2+ Exp  HTML5/ JavaScript Developer
@@ -4373,7 +4370,6 @@ Full-time Native Mobile developer
 Python developer required at inoxapps_Noida
 Frontend Engineer for an early stage startup
 Hiring Python Developers  @ Openlabs, Noida
-QA Engineer a.k.a. ‘Hawk-Eye’ needed!
 Experienced PHP Developer @ Gizmeon Technologies
 Frontend and UI Developer
 iPhone Developer - freelancer
@@ -4852,7 +4848,7 @@ Customer Success Specialist @ Recruiterbox
 Test Engineer
 Javascript coders required at [24]7 Inc.
 Frontend/JS Engineer at SmartBuildings
-US Defense/Security â JAVA Front End professional
+US Defense/Security JAVA Front End professional
 Tech Co-founder: Mobile/iPad
 Brilliant Engineering Interns at Hachi (MIT featured & World Technology Award Nominee Startup)
 Angular JS Developer
@@ -4932,7 +4928,7 @@ Senior Software Engineer (Front-end/UI developer)
 Communications Guru Type Person - Give our lil startup a persona!
 Graphics/HTML Freelancer
 Genius of a Web Designer with proficiency in Flash and HTML5 animations.
-Need Node.js junkies whoâve been high on it for atleast 3 yrs
+Need Node.js junkies who have been high on it for atleast 3 yrs
 Join our team. Expect the best. JOIN US AS a Data Integration Architect
 Community hotshot at fast growing global startup
 Veddis Labs requires UI/UX wiz to create products for the world. 
@@ -5162,7 +5158,7 @@ Hiring Proficient Sales candidates in Software selling
 Associate Architect - HANA Cloud Platform Bangalore
 PHP + chai Lovers
 RoR hacker to set the world right !
-Hiring â Research Scientist
+Hiring a Research Scientist
 RoR Developers at Header Labs
 Java Developers with 2-4 years experience.. Would you like to be a part of Zepo?
 Backend Engineer - Infrastructure @ Cerebrate
@@ -5186,7 +5182,7 @@ Senior Android Developer
 Frontend Engineer @ Cerebrate
 Internship (Javascript or Django)
 Wanted: An Animation Designer 
-UI/UX Designer a.k.a. âMoment of Truthâ Designer at early stage startup with very experienced team
+UI/UX Designer a.k.a. Moment of Truth Designer at early stage startup with very experienced team
 Magento Developer at an exciting eCommerce Startup
 Brilliant mobile app developer don't miss this opportunity!!
 Seriously good PHP developer wanted to lead dev team
@@ -5272,7 +5268,7 @@ Product Managers with Storage Experience
 LAMP Stack Consultant - Full Time
 Excellent creative writer for (women's fashion)e-commerce company 
 PHP Developer
-BD/ Marketing (fresherâs/intern).
+BD/ Marketing (fresher's/intern).
 Computer Vision developers needed for Gazemetrix 
 Product Manager at Toppr.com
 Software Engineer with Java experience
@@ -5398,7 +5394,7 @@ ixigo.com is hiring for Senior Content Editor!
 FusionCharts, LiveText, Hike and CommonFloor are hiring!
 Android Middleware Engineer
 Looking for Android developer
-Exceptional PHP (Zend) â Lamp Professional required
+Exceptional PHP (Zend) and Lamp Professional required
 Software Project Management Professional needed
 All rounder required for a Live Music Startup - Musejam 
 Inbound Marketer @ PromptCloud
@@ -5691,7 +5687,7 @@ Java Architect for an innovative and disruptive lending plaform
 Looking for Tech Co Founder for Startup
 6months-2yrs: Python Developer At Findyogi.com
 Hear one ! Hear all ! Android & iOS Hackers ! 
-BD/ Marketing (2-3 yearsâ experience).
+BD/ Marketing (2-3 years of experience).
 Looking for Sr.Developer with experience using OpenCV
 Backend Developer/Intern at Mobiotics
 .Net Developer 
@@ -5767,7 +5763,6 @@ Technology co-founder needed
 Vice President-Sales & Operations
 Frontend Developer wanted At Tenmiles
 Hardcore ASP.NET (MVC) Developer wanted for a Fast Growing Start-up
-Product Engineer 足 .NET
 Node JS Developer Required [1-3 years]
 Opening for Software Engineer (Role-Scripting)
 Can you Hack, Lead and deliver?
@@ -5907,7 +5902,7 @@ RoR Developer wanted for an exciting startup
 AngularJS Engineer - Full Time @ Customer360
 Liferay Portal
 Catalog Manager for E-Commerce Company Wanted
-Android /IOS â Developers
+Android /IOS  Developers
 Stack Developer at Unwired, a LaaS startup
 Sales Intern at Joomla6Teen
 Mid-level phonegap application developer wanted. ASAP!! 
@@ -5919,7 +5914,7 @@ Unreasonably good at Android? KeepWorks wants YOU!
 Co-founder for an ground breaking eCommerce startup
 Engineer - Cloud Services
 Genii is looking for Business builders and Value creators
-Weâre looking for a design-minded Lead Developer
+We are looking for a design-minded Lead Developer
 Tech enthusiast wanting to lead a startup's tech team. 2-3 years of experience. JS,PHP and CSS
 Web UI Developer needed at Likewyss
 Lead Architect @ an exciting & funded startup in Mumbai
@@ -6049,7 +6044,6 @@ Visual Designer cum Illustrator needed
 .NET coders needed 
 Hardware Engineer
 Digital Marketing Executive at Surgerica, A Healthcare Startup
-Graphic Designers with Photoshop knowledge and  1 to 5 years of experienceÂ required.
 Incubator looking for Front End developers
 Front end developer required at Capital Float
 iOS programmer required (Android app development also a plus but optional)
@@ -6371,7 +6365,7 @@ Code blazer required
 Sr. Frontend Engineer for developing cutting edge experiences
 Mobile app developer for an e-commerce engagement startup (SaaS & marketplace)
 Looking for the SaaS god / cto
-UI Designer at ClearTax (Y Combinator S14) â design the future of Indian fintech!
+UI Designer at ClearTax (Y Combinator S14) loves design the future of Indian fintech!
 Online Platform Live Music, Top notch tech stack, Mobile + Backend Help Required 
 DreamWorks Dedicated Unit - R&D Engineer in Test - Java Webservices
 Fast growing statup looking for a Javascript Developer
@@ -6481,7 +6475,7 @@ Web Front-end Developer
 Java developers with CXF, Axis 2, WLS experience needed
 UI Developer - Reachall  (www.reachall.in)
 UI developer with great architecture experience
-Software Development Engineer â Android Developer
+Software Development Engineer and Android Developer
 Senior software developer needed to help do wonderful things with our product
 JAVA Developer (and preferably Atlassian nerd!)
 An exciting opportunity for python developers
@@ -6722,7 +6716,7 @@ Graphic Designer @Buyhatke Revolutionise the web of online shopping
 Senior Python developer
 Searching for a very creative developer experienced in PHP/Mysql
 One of the best dev teams in Chennai is looking for a 
-Systems Developer, CycleTelâ˘, India
+Systems Developer, CycleTel, India
 Technical Architect at an automotive startup 
 Graphic Designer (Intern)
 Android Developer
@@ -6897,7 +6891,7 @@ Hackers/developers/progammers/problem solver in a well funded start up
 PHP Developer needed for challanging niche web applications. http://a2star.com/careers/
 Looking for a Social Media genius!
 android developers for a location intelligence product company 
-Web Development Intern for mentĂŠ
+Web Development Intern for mentas
 Software Development Engineer - Search
 Web Developer needed at Nyaya Health!  Work in NYC and travel to Nepal.
 Looking for a Director - Digital / Online Marketing for an E-commerce Client
@@ -7067,7 +7061,7 @@ Business Development Executive
 UI Developer
 php developer with strong html and css required
 User Interface Designer needed to lead the effort for a social-commerce platform
-Web Designer / Graphic Designer (6 months â 3 yrs.)
+Web Designer / Graphic Designer (6 months or 3 yrs.)
 Wordpress/PHP developer @TeachMeBuddy
 UI / UX Designer @Grabhouse
 Senior Android Developer for an innovative and fast growing startup. Package: 4-6L/annum
@@ -7248,7 +7242,6 @@ Hiring Software engineers -  for a CA based product company
 Windows/Linux System Administrators at Vismi Technologies
 JavaScriptLead
 Junior Ruby on Rails Developer to join a fast growing company
-Visual Designer who can build an ‘emotional connect’
 Test automation developer @InstartLogic
 UI Developer
 A creative  Web Designer for a IT company dealing in Audio Books
@@ -7412,7 +7405,7 @@ Tip top PHP coder please
 Super smart Android Intern for a Startup
 Apply Design Pattern in PHP
 Join us and change the landscape of Big Data | Web Development | Python/Javascript
-Software Engineer â Cloud Platform Team
+Software Engineer for Cloud Platform Team
 Yii PHP Developer wanted at ReGlobe
 Associate Editor / Tech Writer @PriceBaba
 PHP developer - Fresher
@@ -7561,7 +7554,7 @@ Need an enthusiastic PHP Developer
 UI Designer
 QA Freshers 
 Flash Script developer for a game project.
-Senior Web Developer for Tripoto â A platform to share and discover trips
+Senior Web Developer for Tripoto a platform to share and discover trips
 Senior / Lead Engineer - Java/JSF
 Can you turn beautiful designs into webpages? 
 Software Engineer for an early stage startup
@@ -7734,7 +7727,7 @@ Technology Analyst at FundWave (multiple positions)
 Enthusiastic web designer with html/css skills
 Game Artist
 Dot Net Developers
-Lead â Network Operations Engineer
+Lead  Network Operations Engineer
 Android Developer
 Senior Software Engineer at a FinTech Start-up
 Hunt for iOS/Android Game Developers @ a transformative product company !!!
@@ -8021,7 +8014,7 @@ Sharepoint Developer
 Experienced Wordpress Programmers
 Manager - Proficiency in multiple products or technologies, team and delivery management
 Freelance Engineer - Javascript & Node
-Software Developer â Good in Perl or willing to Learn?
+Software Developer and good in Perl or willing to Learn?
 Looking for an inspiring Digital Media designer (3d/2d) for our innovation team
 Technical Architect/ Technical Manager- Web technologies
 PHP Developer required for a growing software company in healthcare space
@@ -8051,7 +8044,7 @@ Looking for a strategic partner - who can build a development shop
 Django intern
 Mobile Developers @ Ezetap
 Looking for co-founder for next big social eCommerce platform www.scrapehere.com
-UI Geek at Notiφ 
+UI Geek at Notiq 
 Product Content Specialist
 Python 6 months internship
 Project Manager required@ Paper Plane
@@ -8137,7 +8130,7 @@ Business Development Executives
 UI/UX developer - HackerEarth
 Web 2.0 Admin (System Deployment Specialist)
 Android developer
-Senior Test Engineer âFactory
+Senior Test Engineer
 Product Manager - Gaming
 Online Marketing Manager at high-end start-up in Bangalore
 Red Brick Lane is seeking a Data Analyst (Industry Analysis and Data Management)
@@ -8192,7 +8185,7 @@ Build PHP based server systems that power the next generation mobile retailing e
 UI/UX Designer for an automotive startup
 PHP Hacker at EkSMS.com
 UI/UX Guru needed
-Growth with the company CoStrategix â An excellent opportunity - UI Developer
+Growth with the company CoStrategix . An excellent opportunity - UI Developer
 Php and Open Source Guru
 Full stack PHP developer with 2-3 years experience for a fast growing & funded e-learning company
 Android dev for food discovery/recommendation app
@@ -8230,7 +8223,7 @@ smart JavaScript developer wanted
 UI/UX designer
 Growth Hacker to lead Digital Marketing
 Team Lead ( Product Focus, PHP, mySQL) @Srijan Capital
-Backend Geek at NotiĎ
+Backend Geek at Notid
 Tech co-founder needed, to help journey the product chasm
 Sales/Business Development Associate
 Management Trainee
@@ -8298,7 +8291,7 @@ Python/Django Software Development Engineer
 Sunglass : Front-End Engineer
 Lead tech guy - jruby,adhearsion - generic hacking 
 Load Balancer Engineer 
-Product R&D Engineer â Server Programming
+Product R&D Engineer in Server Programming
 Senior Software Engineer
 Technical Writer in Chennai
 Python Security Engineer Wanted at AadhaarUp
@@ -8356,7 +8349,7 @@ Got J2EE? With this crew u'll brew sumthin new,,,,
 We are hiring a interactive/digital designer!
 Business Development Executive Opening at Gurgaon 
 Experienced Magento Developer For An exciting fashion ecommerce company
-Online communities startup: We â¤ websockets, XMPP, Node.js, open source
+Online communities startup: We love websockets, XMPP, Node.js, open source
 PHP, Joomla and Javascript experts
 Freelance Android SDK developer wanted
 Content Writer on adventure/activity for an internet based travel startup
@@ -8417,7 +8410,7 @@ Web designer
 ITapp is hiring Java and UI engineers
 Freelance Android Developer 
 UI / UX Design Intern @ redBus.in
-Architect â Mobile Application Development
+Architect for Mobile Application Development
 UI/UX Developer Required at Golden Phoenix
 Early-stage startup seeks socially-minded engineers
 Mobile App Development (Android, iOS)
@@ -8567,7 +8560,7 @@ Ruby Programmer(Work from home)
 Sr. Engineer: Platform Team
 Web Designer- CSS/Photoshop
 Javascript Developer at SportsMechanics
-Weâre looking for UI Designers
+We are looking for UI Designers
 ISB/NIT team looking for a full stack hacker, to uphold the badge "Employee # One" ?
 Freelance Wordpress Plugin Developer
 Java Developer needed for implementing enterprise applications
@@ -8636,11 +8629,10 @@ Software Design Engineer - Web
 Magento Expert @ Chennai, IN
 WANTED: Full Stack Developer / REWARD: Develop a one of a kind marketplace! 
 Looking for part time software testers/QA. Flexible hours!
-Senior Web Engineer
-Attention: Ruby Lovers Only!
+Senior Web EngineerAn engineer (or two!) to create the best home buying digital destination in the worls Only!
 UI Designer
 Frontend Programmer And Map Lover
-We make cool apps for big brands, and weâre looking for a Web Developer.
+We make cool apps for big brands, and we are looking for a Web Developer.
 Lead Android Programmer Required
 Frontend UX/UI Developer to Own User Experience at Overcart
 1+ yr experienced front end developer with expertise in html, css, js, jQuery and possibly photoshop
@@ -8651,8 +8643,7 @@ Full Stack developer- Ruby on Rails
 Creative UI/UX designer in a mobile startup
 Need innovators in graphic design
 Mobile developer (across platforms) wanted at FundsIndia.com. 
-Reporter/Feature Writers
-The Country’s Biggest Brands Need You (if you’re a Mobile App Developer, that is)
+Reporter/Feature Writers 
 Looking for PHP Developers
 Front End Developer with expertise in Javascript
 Need a Ruby on Rails Developer
@@ -8684,7 +8675,7 @@ Front End Developer
 One of the best IT company looking for PHP Developer
 Sys admin who loves perl and linux
 A fresh grad interested in working on Big Data
-Shah Net â Require For Female Accounts Assistant in Ahmedabad
+Shah Net require For Female Accounts Assistant in Ahmedabad
 Looking for Front-end developer (HTML,CSS)
 Online Media Planner & Buyer
 Fancy yourself as a MediaWiki Developer?
@@ -8733,7 +8724,7 @@ Business Development Manager - IMS (BDM) position with  IT MNC
 Every night in my dreams, I see you (a Python/Django dev), I need you...
 Customer Support Executives at Mumbai (Voice Process)
 Software Engineer QA (3+ Years) for a leading behavioural ad Solution provider
-Weâre looking for a passionate web developer (HTML5/CSS3/JS/AJAX/Json/JQuery).
+We are looking for a passionate web developer (HTML5/CSS3/JS/AJAX/Json/JQuery).
 Passionate Java developers for an exciting web 2.0 start up!!
 Great pay + a startup culture = :-)
 Looking for Interns (with salary) - For an ecommerce startup
@@ -8751,7 +8742,7 @@ Django Developer - 100% Open Source & 100% Remote
 Php Consultant Freelancer wanted for Maansu
 Software Engineer- Web Developer
 Totally cool ASP.NET (C#) Lead Developer wanted at iResult
-âĽ music, technology and culture? âĽMagento, OSCommerce, WordPress and Drupal? :) read on
+love music, technology and culture? Magento, OSCommerce, WordPress and Drupal? :) read on
 Visual/UI Designer
 Python Web Developer
 Front End Expert Needed
@@ -9029,7 +9020,7 @@ System Administrator for a well funded ecommerce app
 Software Engineer for a well funded ecommerce app
 Data Researcher at Tookitaki 
 Opportunity for a Business Development Executive/Business Analyst Profile
-Technology co-founders for a Start-up â Web Apps /Mobile Apps/Infrastructure Management
+Technology co-founders for a Start-up in Web Apps /Mobile Apps/Infrastructure Management
 Looking for technical co-founder in a seed funded startup
 Excellent PHP developers needed for a web portal
 UI Developer for PE-Funded company in Bangalore
@@ -9152,7 +9143,7 @@ Looking for Ux Masters to work with us
 Web Designer/Developer wanted for a global education technology company
 High Frequency Trading Strategist
 Business Development Guy Wanted for Education Technology Startup
-Weâre looking to grow our team with someone who loves design.
+We are looking to grow our team with someone who loves design.
 Lead Android Developer at mobile startup incubated at Yale University
 Have you got 3+ years in developing android apps?
 web developer for a product startup in a large IT company
@@ -9220,7 +9211,7 @@ An Engineer with excellent design skills to be part of the UI team at our small 
 Zend Coder @ Joomla6Teen
 Need a Lustful Java developer with an itch to write some cool code? Smart THINKERS not just Coders!!
 IOS Developer
-Passionately hungry for the "crĂ¨me de la crĂ¨me" of designers.
+Passionately hungry for the  of designers.
 Looking for Star  PHP Dev: Experience with Symfony, CakePHP, Web Design a huge +
 Linux/Windows System Administrators
 Front End Dev (Web) at Renowned Startup
@@ -9281,7 +9272,7 @@ Can you code fast ?
 Wanted: Crack-shot Developers [Python, JavaScript]
 Graphics Designer at eGovernments Foundation
 Web Developer 
-Ăber Hacker
+Uber Hacker
 Front End Coder needed for music based startup
 Algorithms Geek
 Device Driver Developer Requirement
@@ -9290,7 +9281,7 @@ C / Java Tutor needed.
 A smartphone platform developer, to make them phones "smarter"
 PHP Developer/ VoiceTree Technologies
 Digital Marketing guy wanted for an e-learning startup.
-An engineer (or two!) to create the best home dĂŠcor buying digital destination in the world
+An engineer (or two!) to create the best home buying digital destination in the world
 VOIP consultant
 Enthusiast CS fresher wanted for a startup
 Product Lead for Bangalore based startup - YourCabs
@@ -9312,7 +9303,7 @@ Frontend Development Interns @ TranceServe
 A Simple Ofbiz Application is Needed
 Tech Lead : Venture funded Sports New Media House Sportskeeda
 indix is looking for Big Data/Data Science coders/hackers
-Wanna build the next big thing? Think youâre an ace designer and coder? If yes and yes, we want you!
+Wanna build the next big thing? Think you are an ace designer and coder? If yes and yes, we want you!
 Hardware/Embedded design Superman
 Founding Engineer wanted for Maansu.com
 Wanted - Fresher Python/Django developer at New Delhi
@@ -9403,7 +9394,7 @@ PHP Developer
 Front-End Knight needed For a Community Project 'Cofinder.in'
 UI & Frontend Developer
 Marketing Lead with experience in Social Media Marketing/SEO (Full time/Intern)  at STYLINER.com
-Experienced SAP experts with SAP R/3速 implementation expertise for Europe
+Experienced SAP experts with SAP implementation expertise for Europe
 2-4 yrs exp UI developer/designer 
 Senior Web Designer
 Looking for an Android developer for full time or freelance. Based out of New Delhi
@@ -9783,7 +9774,7 @@ Be a part-time SEO guru at a B2B ecommerce startup
 Paid Internship - 2 months - Web and Mobile apps development.
 Sales Executive at ZingoHub
 Design met engineering. And so the story began
-Intern â Business Development 
+Intern at Business Development 
 Developer needed to work at India's fastest growing online testprep startup - "Testpress"
 Inside Sales Member at a fast growing startup
 Mobile Marketing Enthusiast required
@@ -10073,9 +10064,9 @@ Android Developer at OYO Rooms!
 Data entry Operator/admin
 UX / UI Designer
 Web Developer Internship at IndiaBookStore
-Manager Finance â Chartered Accountant (2-5 Years) 
+Manager Finance at Chartered Accountant (2-5 Years) 
 Web Designer wanted at The Egghead Creative
-Unix System Administrator â Seattle
+Unix System Administrator at Seattle
 Front End Developer
 Senior Android Developer for Edu-tech Startup
 Python Developer @ Frankly (VC Funded Startup)
@@ -10163,11 +10154,11 @@ Unity game developer needed!!
 Looking for a senior Java Professional to lead an exciting Product
 Html5 + CSS Intern wanted
 UI Developer
-Search Engine Marketing â Manager With FundsIndia.com
+Search Engine Marketing Manager With FundsIndia.com
 Looking for technically strong and smart interns - "Qubole"- Big data
 Product Marketing Manager (3-7 Years) or a Global Electronics Company
 DevOps Engineer @ HashedIn Technologies
-Email Marketing Manager â Email Marketing at FundsIndia.com
+Email Marketing Manager in Email Marketing at FundsIndia.com
 Marketing Analyst familiar with Bangalore
 Machine Learning Engineer 
 Android mobile applications developer for eCommerce and analytics products
@@ -10531,7 +10522,7 @@ Graphic Designer at Foradian Technologies
 JavaScript expert
 UX Architect (3+ Years) 
 Microsoft-Ventures-accelerated Aussie security startup seeks multi-talented experienced full-timer
-Sales Intern â Piquor Technologies - Gurgaon
+Sales Intern at Piquor Technologies - Gurgaon
 Love Cricket?  Love Python?  You should talk to us!
 Web Developer (CakePHP) 
 Sr. Windows Desktop Engineer for a video start up
@@ -11091,7 +11082,7 @@ Django developers wanted at a Logistics Startup
 Datastructure/PHP/SQL/NEO4J - programmer req
 Web Developer
 Full stack developer needed with knowledge of Graph DB
-Senior Network Software Engineer â Network Software Development
+Senior Network Software Engineer in Network Software Development
 Looking for Mac OS X developers
 Intern @ Percepty Labs
 Product Manager/Game Designer
@@ -11135,7 +11126,7 @@ PHP Legend required
 Drupal Expert wanted at a Web startup (Freelance)
 Content Writers Needed (E-Commerce)
 Wanted PHP guru
-Graphic Designer & Manager/Lead â Ad Operations 
+Graphic Designer & Manager/Lead and Ad Operations 
 Newgrad for IOS development
 Senior iOS developer (2-3 Years)
 Cocos 2D ( Sr. Developer)
@@ -11215,7 +11206,7 @@ Sr Java Developer
 Senior Python/Maps Developer
 PHP Web Developer
 MicroStrategy Experts for Hot Analytics Atartup
-Star System Engineer â Cloud Operations
+Star System Engineer in Cloud Operations
 Python Geek - Come and partner us in one of our products.
 Be The First Marketing Guy
 Looking For Wordpress Experts
@@ -11576,7 +11567,7 @@ Back-End (PHP or RoR) Programmer @ Creators Lab
 Excellent PHP coder wanted at adventurous startup
 Talented Front-End Designer / Developer
 Star Frontend PHP Coder wanted for an equally cool startup company!
-Software Engineer â Cloud Platform Team
+Software Engineer at Cloud Platform Team
 Experienced Android/Java developer wanted for startup (India, US)
 Wordpress geek as a cofounder
 Software Engineer
@@ -11837,7 +11828,7 @@ Lead Programmer for Bootstrapped US/Bangalore Startup
 DevOps Engineer
 Are you attending Meta Refresh? If yes give us a call!
 B2B sales VP Required
-UI Developerâs with AngularJS experience
+UI Developers with AngularJS experience
 Book writer/Editor/proofreading
 Frontend develper for Educational Startup
 Senior PhP Developer at a Fast growing start-up
@@ -11854,7 +11845,6 @@ HTML + css + js + rails/php developer needed. Should have some work to show.
 LeadSquared is looking for developers who can build software!!
 Free Software & Indie Web Docker.io packager
 UI/UX designer
-http://b2Zjb3Vyc2V1cy5jb20=
 Graphic Designer
 A web developer is needed for a start up
 Game development project using Facebook API
@@ -11887,7 +11877,7 @@ JavaScript, ExtJS, Sencha framework expert
 Heading the team of  world class engineers from Premier colleges
 Require a developer(s) in exchange for equity/salary in an exciting startup
 Excellent Mobile Developer required at exciting global startup.
-Network & Database Adminâ¨
+Network & Database Admin
 AI and UI programmer for chess game
 Digital Designer
 Technical manager - Php
@@ -11914,7 +11904,7 @@ Experienced Developers needed for a funded early stage startup
 Experienced PHP Developer 
 Looking for programmers  who are proud of their craft
 An internship opportunity at Milaap through a blogging contest
-Frontend/JS Engineer at SmartBuildingsâ˘
+Frontend/JS Engineer at SmartBuildings
 Technical Operations Engineer
 Graphic designer for mydesignersales.com. 
 Wanted : Jr. Steve Wozniak
@@ -11929,7 +11919,7 @@ CakePHP programmer
 Data Scientist
 UI/UX Designer required for a Edtech Startup SchoolCom
 2+ year exp iPhone dev who has done end-to-end development & deployment
-Make VIMANA Fly â UI Developers wanted at System Insights
+Make VIMANA Fly UI Developers wanted at System Insights
 Business Development Executive
 Weekday recruitment drive - "Java developer" - 26th March 2013
 Django freelancer wanted to add final touches for an interesting web application
@@ -12067,7 +12057,7 @@ Senior PHP MVC Frameworks Engineers!
 Creative Illustrator
 .NET Software developer  
 Wordpress Developers!
-Frontend/JS Engineer at SmartBuildingsâ˘
+Frontend/JS Engineer at SmartBuildings
 Experienced Full Stack Developer for US+India based startup
 Goibibo is  looking out for IOS Developer
 A start-up needs help, new website - Experienced Designer with Infographics, Jomla & HTML5,....
@@ -12348,7 +12338,7 @@ Young Engineer with Entrepreneurial DNA
 Django / Python Guy at eCommerce Tech Startup
 Required PHP Application Developers
 In need of an iOS Hacker
-If you simply enjoy selling & believe youâre an entrepreneur-in-making â Be a BD Executive @ Zepo
+If you simply enjoy selling & believe you are an entrepreneur-in-making. Be a BD Executive @ Zepo
 Full-time/inernship (Software Engineer) role for cool OpenStack solution
 CEH professional with RHCE
 php/html/css Coder wanted at Bangalore
@@ -12589,7 +12579,7 @@ Web Developer (HTMl, CSS, PHP) with 1 year Experience (Short-term contract)
 Are you a Javascript Coder - Then Apply & Join our lovely team
 Magento Developer for a Delhi Startup
 Experienced PHP programmer (multiple openings)
-Senior PHP Developer â Well Funded Start-Up
+Senior PHP Developer at Well Funded Start-Up
 Need a UI/UX Intern @Frrole 
 Javascript developer wanted
 Where are the Frontend enthusiasts?
@@ -12616,13 +12606,13 @@ Developer focused on UI needed for CrowdChat.net
 Out of the Box wix and wordpress expert wanted
 If the === operator doesn't surprise you, check this.
 Development Lead (8-10 years) 
-UI/UX Designer â Software Systems at Human-Computer Interaction startup
+UI/UX Designer in Software Systems at Human-Computer Interaction startup
 Software Engg - J2EE
 Backbone JS/JavaScript Framework Specialist
 If you love to code java/groovy, github, startups, no-dress code
 Looking for Technical Designer/Frontend CoFounder
 Product Engineer
-Fullstack JS Engineer: Emberjs + Nodejs + âĽ
+Fullstack JS Engineer: Emberjs + Nodejs 
 Engineering Head To Build a Disruptive Local Commerce Platform
 UI Engineer @ Shoonye
 Required PHP/Python Developer : Opportunity with an American Based MNC
@@ -12784,7 +12774,7 @@ Internship Opportunity @ E-Healthcare Startup in Delhi NCR
 Front End Developer @ Styloot.com
 Full stack open source tech enthusiast to head technology
 Hiring C/C++ programmers with Linux background
-We make cool apps for big brands, and weâre looking for a Software Engineer
+We make cool apps for big brands, and we are looking for a Software Engineer
 Developer-co founder-start up
 Senior or Lead or Principal Travel (Integration) Engineer
 Php Zend MySQL Expert who want to become Head Of Technology in years to come. (Ahmedabad based)
@@ -12969,7 +12959,7 @@ SDET required @ Goibibo.com
 Python geek wanted at goibibo 
 Creative web designer for It Company
 Graphic Artist for Gamification Platform
-Business Development/ Marketing Intern, Delhi â NCR
+Business Development/ Marketing Intern, Delhi at NCR
 Java-J2EE Tech Lead and Developer required at India's first data driven tech lending platform
 UI Designer / Developer required for a Bangalore based technology start-up
 What's the craziest idea you have ever worked on? We are building a Time Machine. Beat That!
@@ -13255,7 +13245,7 @@ Engineering Manager
 Software Engineer at TaxiforSure
 Senior Software Engineer at TaxiforSure
 Tech cofounder needed for a world changing mobile app
-Project Manager â Innovation & Entrepreneurship
+Project Manager and Innovation & Entrepreneurship
 Tech Lead in Taxiforsure
 Marketing Assistant
 Technology Geek (PHP/Python) - Core team position, Funded Startup
@@ -13382,7 +13372,7 @@ Experienced Android developer
 Strong Coders Needed!!!
 Cleartrip is hiring JavaScript Developers
 An enthusiastic and talented Android Engineer
-Ad Tech Engineering Team Lead/Manager â PERL
+Ad Tech Engineering Team Lead/Manager in PERL
 opening for Web designer
 Sr Quality Engineer position at Redhat
 C Developer position with Redhat, R&D Division
@@ -13585,7 +13575,7 @@ Andrioid Developer @ Binj
 Fullstack Engineer Needed to Help Redefine the News Biz
 Looking for an android/ios developer
 Content Writer cum Social Media Expert
-Application Developer â Android
+Application Developer Android
 Need an experienced (3-4 yrs) Web Programmer right away. 
 Are you a UI Dev. with great design sense ? Let's talk.
 PHP Developers
@@ -13677,7 +13667,6 @@ Super Smart Technical Architect needed
 Python intern - with knowledge of amazon aws and other similar services. Stipend -8k per month
 HR Administrator cum Office Manager
 Web Developer Required
-Software Developer – (Willing to learn Perl) – Amsterdam
 Python Developer , Delhi Location - 1 to 3 Years Experience
 Android and IOS programmer wanted at Development centre of Liftoff.
 CTO at Revolutionary Startup Social Enterprise
@@ -13749,7 +13738,7 @@ Hiring Excellent, Full Stack PHP developer with API experience
 Webonise Lab is in search of a FullStack Practice Head
 PHP, Django Backend Lead Developer
 Team Lead Development @ Booking.com in Amsterdam (visa+relocation included)!
-World-class Front End Developer wanted at global startup  Â   Â 
+World-class Front End Developer wanted at global startup 
 Seeking Developer Sherpa at SeekSherpa
 Google Chrome Extension Developer intern! 
 Digital Marketing Intern (6 months) Wanted at Townscript
@@ -14174,9 +14163,8 @@ Quantitative Analyst - Predictive Modeller
 Android Developer
 Freelancer/Intern UI Developer required
 Lead Engineer for an exciting new Social Travel platform
-“Full Stack” Java Developer – Technical Lead
 Creative writers and content producers!
-Technology Lead for Health Startup â php, mysql
+Technology Lead for Health Startup in php, mysql
 partner for a good future startup
 Senior server side web developer with expertise in RDBMS & ORM
 RoR front & backend w/ +2 years experience. 
@@ -14256,7 +14244,7 @@ Experienced Umbraco developer needed for European tech incubator
 Technical Co-Founder wanted at eattastic.com
 C/C++ Programmers required 
 Full-time graphic designer for Zumbl.com
-Is it Programming that sparks your Mind? If Yes, ThenâŚ..
+Is it Programming that sparks your Mind? If Yes, Then
 Marketing Intern (Virtual Internship) for startup - Dronna.com
 Electronics Hardware Engineer
 Sales Manager
@@ -14297,7 +14285,7 @@ Want to really make a difference to Yourself , Customers, Salesmen & Companies ?
 Flex Developers(Pune)
 Angular JS Freelancer required
 Walk-in for Marketing and Sales specialist position at a fast growing startup
-DĂŠveloppeur Symfony 2 - E-Commerce
+Developer Symfony 2 - E-Commerce
 Genius Idiot needed for World Changing Journey
 Wacky graphic designer for a super-fundoo start-up!
 Freelance Designer(Posters) Required on Assignment Basis
@@ -15440,7 +15428,7 @@ Product Manager
 Interaction Designer who knows what designs means to World!
 Linux Wizards for an embedded startup.
 Marketing & Sales at BlogAdda
-Recruiterboxâs first hire: Python / Javascript programmer
+Recruiterbox's first hire: Python / Javascript programmer
 Mobile & Web developer for a start-up with lots of exciting projects: http://a2star.com/careers/
 Online Community Moderator @ MPedia
 Graphic Designer for Web, UI projects, and more.
@@ -15708,7 +15696,7 @@ silverlight wpf developer for windows 8 development
 UI Developer, Chennai, 4-12 yrs
 Infrastructure Consultant at Pipal Tech Ventures, Bangalore
 Interaction Designer and Visual Designer
-Heyyyyy Guys!!!     Looking for a career with complete freedom ?
+Looking for a career with complete freedom ?
 Software Sales Specialist-Marketing/Sales/Recruitment Domain
 html5, css3, svg and more great stuff
 Facebook API Engineers wanted at Ecselis
@@ -16066,7 +16054,7 @@ ROR Developer Required for a Startup in Cochin
 Want to help build the future of transportation?
 Angular JS Engineer 
 Digital Marketing Specialist 
-Team Lead â Java and Android
+Team Lead in Java and Android
 Tech Co-Founder for TheHouseMonk
 HTML5 + Java Game programmers needed in Bangalore !! (Full-time & Part time)
 Game Developer/ Lead Game developer
@@ -16098,7 +16086,7 @@ Android Application Developer
 iOS Developers wanted at Kandivali, Mumbai
 User Experience Designer for web and mobile.   Experience with HTML, CSS, and JavaScript. 
 Start Up Experience / Potential Equity Opportunity w/ Social Radio Music App
-Technology Head â Online Gaming Startup (Client/Server based Product) 
+Technology Head at Online Gaming Startup (Client/Server based Product) 
 Mobile app development @ Multimedia on Cloud Startup
 Sr Techie with hands on experience 
 Sr. PHP Developer
@@ -16203,7 +16191,7 @@ Front End Developer
 Lead Mobile App Deveload(android)
 Looking for web-designers
 Mobile Geek
-Architect â Mobile Application Development
+Architect for Mobile Application Development
 3+ yrs exp brilliant PHP developer required for Social Web app
 Opening for experience django developer
 Android/iOS Application Developer (Phonegap) @education start-up Digitopper.com
@@ -16274,7 +16262,7 @@ Sales / BD Manager for Mintm
 Awesome Test Lead from a dev background for an Online Product
 Software Analyst - JAVA
 Lead JS Developer
-Technical lead, Product Development â ExtJS  
+Technical lead, Product Development in ExtJS  
 Sales Manager / Business Development Manager
 Vacancies for iPhone developers and Magento Developers in Ahmedabad
 Help add pictures to walls
@@ -16288,9 +16276,9 @@ Experienced PHP Geek needed
 Got taste? Bring-it-on. Looking for a talented web designer.
 Web Developer @ Exciting Start Up In Hyderabad
 Experienced Ext Js Developer needed
-Business Development Executive â HashedIn Technologies â Bangalore
+Business Development Executive HashedIn Technologies at Bangalore
 Sales / BD Manager for Mintm
-Python/Django Developer Required in Norwich (£300/£400pd)
+Python/Django Developer Required in Norwich
 Can you script? What about for IE 6?! Looking for a UI Magician.
 QA Automation Engineer
 Mobile UX designer - iOS & Android (full-time or freelance) @ MakeMyTrip
@@ -16456,7 +16444,7 @@ UI enthusiast who loves creating beautiful things on phone
 Web developer - Playframework, booststrap
 Front End Developer (Full Time preferably)
 Experienced Perl programmer (multiple openings)
-iOS Developer (Software Developer â iOS Development)
+iOS Developer (Software Developer and iOS Development)
 UI/UX Developer
 Proxy Engineer
 Marketing/ Go-getter for a Mobile Solutions/ Communications co.
@@ -16604,7 +16592,7 @@ ActionScript developer requires for building an app based on krpano (www.krpano.
 Executive Assitant at an exciting startup
 We need excellent management interns, who are dedicated and have an attitude to innovate 
 Wanted A Graphics Designer
-Manager / Senior Manager â Product
+Manager / Senior Manager Product
 Executive Admin for a Exciting Startup
 Optimization Problems Specialist (Mathematics) (Project based)
 Ruby-on-Rails developer (Permanent / Project based) 
@@ -16737,8 +16725,8 @@ Sr Java Guru required for developing a cutting edge SaaS application
 iOS and Android App Developer
 Javascript Engineer for the Unbanked
 Senior Website Designer with good knowledge of HTML5 & CSS
-Internship in Noida – PHP Developer – Inoxapps Mobile Solutions
-Internship in Noida – Python Developer – Inoxapps Mobile Solutions
+Internship in Noida PHP Developer Inoxapps Mobile Solutions
+Internship in Noida,Python Developer at Inoxapps Mobile Solutions
 Excellent PHP  Programmer needed @ Agentdesks
 Office Administrator @Airpush Bangalore
 HTML5, CSS3, JS, jQuery .. Know it all?  Apply now !
@@ -16851,7 +16839,7 @@ Django Developer at Industrial Automation Startup
 Front End Developer (CSS+ JS) at Musicfellas
 Front End Developer/Bootstrap Designer
 Android geeks required at inoXapps Mobile Solutions_Noida
-User Interface / Experience Designer a.k.a. âMoment of Truthâ Designer
+User Interface / Experience Designer a.k.a. Moment of Truth Designer
 Experienced Freelance/Contract Front End Developer 
 Writer and reporter wanted
 Frontend/UI Engineer for MangoReader
@@ -17064,8 +17052,8 @@ AVP Technology at Beautykafe.com
 Looking for HTML5 /Javascript/Node devs.
 Business Analytics Manager
 Sr Yii Framework Developer with 1+ years of experience @ Popular Startup
- HTML, CSS, Java script
-  Front end developer’s  show us why you’re a hit!
+HTML, CSS, Java script
+Frontend developers show us why you are a hit!
 Senior Developer - Ruby on Rails
 Graphic & UI Designer - Bangalore, Karnataka
 Blackberry Developer - Bangalore, Karnataka
@@ -17143,7 +17131,7 @@ Web Journalist
 Are you a PHP geek?
 Merchant Engagement intern for experience gifting marketplace
 Web Developer @ Education Startup
-Front足end Developer - Freelance/ Consulting
+Frontend Developer - Freelance/ Consulting
 Rails developer required for Zeptor Aerospace 
 Lead Mobile Test Engineer
 Your PHP skills can change the world
@@ -17313,7 +17301,7 @@ Marketing (Tactical) Intern - Are you looking to be one
 Online Marketer for an eCommerce 
 Product Manager 
 1st time iOS developers welcome
-If you simply enjoy selling & believe youâre an entrepreneur in-the-making, be  a part of Zepo!
+If you simply enjoy selling & believe you are an entrepreneur in-the-making, be  a part of Zepo!
 Scraping expert (pdfs, desktop apps, websites) in Delhi for startup (salary: upwards of $1200/month)
 Ruby/RoR Developer
 ANDROID DEVELOPERS WANTED AT AWARD WINNING STARTUP
@@ -17863,7 +17851,7 @@ Co-founder for Web based Startup Company. Remuneration part equity - part cash
 Research intern required for Headstart Network
 Creative front-end coder wanted for a digital agency
 C# Developer for US-based Mobile/Social Shopping Startup
-Uber talented programmer? Be our Head of Product Development âş
+Uber talented programmer? Be our Head of Product Development
 Web Application developer PHP/JS knowledge
 Web Development Lead for an Education Startup
 User Interface/Interaction designer
@@ -17970,7 +17958,7 @@ A rocking Lead PHP, MySQL & Magento Developer required at Big Rattle Tech
 Wanna build book sharing platform of the world? We are looking for Node.js developer.
 Full stack developer
 iOS Developer for a well funded Silicon Valley/Coimbatore startup
-SEO to run campaigns, run PPC campaigns, improve the websiteâs rankings
+SEO to run campaigns, run PPC campaigns, improve the websites rankings
 Android/iOS developer required at IgluLabs
 UI Developer wanted at bay area start-up
 Looking for iOS/Android developer to work in Ahmedabad based startup.
@@ -18137,7 +18125,7 @@ Freelancer to code SMS interaction engine, in Mumbai
 Experienced Android Developer or Architect for part time
 Python developer at a Big Data Analytics Company
 Google Appengine, Java, Javascript programmer for Image Processing Startup
-Software Development Engineer â Cloud
+Software Development Engineer in Cloud
 UX & Graphic Designer required @ Plancess Edusolutions
 Marketing Content Associate
 Business Development Executive 2 yrs exp
@@ -18812,4 +18800,4 @@ Freelancer Technical Editor Wanted
 WANTED: Web Designer for equity
 Core Tech Team Member / Developer at VC Funded Startup
 Zend Magento PHP Developer
-:-)  Freelance Facebook app developer
+Freelance Facebook app developer

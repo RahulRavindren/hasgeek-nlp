@@ -17,16 +17,21 @@ class StatPreProcessing():
 		self.dictClean = []
 	
 	def nounExtractor(self,sentence):
+		noun = False
 		self.tokenizedText = nltk.word_tokenize(sentence)
 		posTagSentence = nltk.pos_tag(self.tokenizedText)
 		for t in posTagSentence:
 			if(t[1]== "NNP"):
-				self.nounSentence.append(posTagSentence)						
+				noun = True
+		if(noun):
+			self.nounSentence.append(posTagSentence)
+
 	
 	def stopWordFilter(self):
 		stop = stopwords.words('english')
 		for i in self.nounSentence:
 			if i[0] not in stop:
+				print i[0]
 				self.dictClean.append(i[0])	
 	
 	def tagSentenceDump(self,object):

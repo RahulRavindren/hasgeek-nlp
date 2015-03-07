@@ -11,12 +11,12 @@ class CommonFunctions():
 		Calculate frequency distribution of words in the corpora
 		input : array of tokenized words 
 		"""
-		self.fdist = FreqDist(tokenizedWords)
-		print self.fdist
+		return FreqDist(tokenizedWords)
 	
-	def histogramPlot(self):
+	def histogramPlot(self,fd):
 		"""
 		Histogram plot of the most frequent words in the corpora.
 		"""
-		
-		return 
+		return
+
+	

@@ -31,7 +31,6 @@ class StatPreProcessing():
 		stop = stopwords.words('english')
 		for i in self.nounSentence:
 			if i[0] not in stop:
-				print i[0]
 				self.dictClean.append(i[0])	
 	
 	def tagSentenceDump(self,object):

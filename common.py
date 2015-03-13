@@ -1,6 +1,10 @@
 #-*- author:Rahul Ravindran
 #-*- coding:UTF-8
 from nltk import FreqDist
+from sklearn.decomposition import PCA
+from matplotlib.pyplot as plt
+
+
 class CommonFunctions():
 	"""
 	CommonFunctions for the language module
@@ -18,5 +22,13 @@ class CommonFunctions():
 		Histogram plot of the most frequent words in the corpora.
 		"""
 		return
+	def pcaplot(self,matrix):
+		"""
+		PCA plot of the common freq terms in the corpora.
+		Inputs - 
+		matrix : count freq matrix
+		"""
+	 	pcaObject = PCA().fit(matrix)
+	 	data2d = pcaObject.transform(matrix)
+	 	plt.scatter(data2d[:,0],data2d[:,1])
 
-	

@@ -2,7 +2,7 @@
 #-*- coding:UTF-8
 from nltk import FreqDist
 from sklearn.decomposition import PCA
-from matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 
 class CommonFunctions():
@@ -28,7 +28,9 @@ class CommonFunctions():
 		Inputs - 
 		matrix : count freq matrix
 		"""
-	 	pcaObject = PCA().fit(matrix)
+		pcaObject = PCA().fit(matrix)
 	 	data2d = pcaObject.transform(matrix)
+	 	print data2d
 	 	plt.scatter(data2d[:,0],data2d[:,1])
+
 

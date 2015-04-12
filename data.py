@@ -18,7 +18,7 @@ class StatPreProcessing():
 	
 	def nounExtractor(self,sentence):
 		noun = False
-		self.tokenizedText = nltk.word_tokenize(sentence)
+		tokenizedText = self.Tokenize(sentence)
 		posTagSentence = nltk.pos_tag(self.tokenizedText)
 		for t in posTagSentence:
 			if(t[1]== "NNP"):
@@ -42,6 +42,8 @@ class StatPreProcessing():
 		temp = pickle.load(open(pickleFileName,'rb'))
 		return temp
 
+	def Tokenize(self,sentence):
+		return ntlk.word_tokenize(sentence)
 	
 class DataStripper():		
 		"""

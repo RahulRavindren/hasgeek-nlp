@@ -22,7 +22,7 @@ class FeatureExtraction():
         self.document = document
         vocab=['python','js','android','php','django','javascript','oracle','ruby','rails','java']
         cnt_vector = CountVectorizer(vocabulary=vocab)
-        freq_term_matrix = cnt_vector.fit_transform(self.document)
+        self.freq_term_matrix = cnt_vector.fit_transform(self.document)
         return freq_term_matrix.toarray()
 
     def tfidfvector(self,f_matrix):
@@ -52,14 +52,8 @@ class FeatureExtraction():
         self.classifierObject = OneVsRestClassifier(SVC(kernel ='linear',probability = True))
         self.classifierObject.fit(xNpArray,yNpArray)
 
-    def SimilarityRankingComponent(self,objectTemp):
-        for document in objectTemp:
-            self.ObjI_count = countFreq(document)
-        return 
-  
-
-
-
-
-
+    def SimilarityRankingComponent(self):
+        _docs_n = len(self.document)
+        _terms_n = CommonFunctions.terms_sentences(self.freq_term_matrix)
+        return
 

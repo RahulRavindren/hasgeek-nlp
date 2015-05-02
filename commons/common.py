@@ -35,6 +35,12 @@ class CommonFunctions():
 	 	plt.scatter(data2d[:,0],data2d[:,1])
 
         def MultiLabelPredict(self,document):
-                ftrextract = FeatureExtraction()
-                ftrextract.classifierObject.predict(document)
-                
+    		ftrextract = FeatureExtraction()
+		ftrextract.classifierObject.predict(document)
+	
+	def weight_scoring(self,nObji,nObj,tfij,dfij):
+		return                
+
+
+	def terms_sentences(self,matrix):
+		return

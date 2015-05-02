@@ -4,15 +4,13 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.svm import SVC
+from commons.common import CommonFunctions 
 import numpy as np
 
 class FeatureExtraction():
     """
     Feature extraction for both post.title as well as post.body
     """
-    def __init__(self):
-        return
-
     def countFreq(self,document):
         """
          this function creates a freq count vector of the common words in a document.
@@ -23,7 +21,7 @@ class FeatureExtraction():
         vocab=['python','js','android','php','django','javascript','oracle','ruby','rails','java']
         cnt_vector = CountVectorizer(vocabulary=vocab)
         self.freq_term_matrix = cnt_vector.fit_transform(self.document)
-        return freq_term_matrix.toarray()
+        return self.freq_term_matrix.toarray()
 
     def tfidfvector(self,f_matrix):
         """
@@ -54,6 +52,8 @@ class FeatureExtraction():
 
     def SimilarityRankingComponent(self):
         _docs_n = len(self.document)
-        _terms_n = CommonFunctions.terms_sentences(self.freq_term_matrix)
+        cf = CommonFunctions()
+        _terms_n = cf.terms_sentences(self.freq_term_matrix)
+        
         return
 

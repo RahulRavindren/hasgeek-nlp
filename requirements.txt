@@ -1,0 +1,6 @@
+hasgeek-nlp
+nltk==3.0
+bs4==4.2
+numpy==1.9.2
+scipy==0.15.1
+orange==0.9.3

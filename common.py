@@ -1,6 +1,7 @@
 #-*- author:Rahul Ravindran
 #-*- coding:UTF-8
 from nltk import FreqDist
+from features.features import FeatureExtraction
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
@@ -33,4 +34,7 @@ class CommonFunctions():
 	 	print data2d
 	 	plt.scatter(data2d[:,0],data2d[:,1])
 
-
+        def MultiLabelPredict(self,document):
+                ftrextract = FeatureExtraction()
+                ftrextract.classifierObject.predict(document)
+                

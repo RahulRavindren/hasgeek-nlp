@@ -54,6 +54,7 @@ class FeatureExtraction():
         _docs_n = len(self.document)
         cf = CommonFunctions()
         _terms_n = cf.terms_sentences(self.freq_term_matrix)
+        _terms_doc_n = cf.termFreq_doc(self.freq_term_matrix)
         
         return
 

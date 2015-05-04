@@ -1,10 +1,10 @@
 #-*- author:Rahul Ravindran
 #-*- coding:UTF-8
 from nltk import FreqDist
-from features.features import FeatureExtraction
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
-
+import numpy as np
+import collections
 
 class CommonFunctions():
 	"""
@@ -34,13 +34,23 @@ class CommonFunctions():
 	 	print data2d
 	 	plt.scatter(data2d[:,0],data2d[:,1])
 
-        def MultiLabelPredict(self,document):
-    		ftrextract = FeatureExtraction()
-		ftrextract.classifierObject.predict(document)
+  #       def MultiLabelPredict(self,document):
+  #   		ftrextract = FeatureExtraction()
+		# ftrextract.classifierObject.predict(document)
 	
 	def weight_scoring(self,nObji,nObj,tfij,dfij):
 		return                
 
 
 	def terms_sentences(self,matrix):
-		return
+		termFreqSentence =[]
+		for i in matrix.toarray():
+			temp = np.nonzero(i)[0]
+			termFreqSentence.append(len(temp))
+		return termFreqSentence		
+
+	def termFreq_doc(self,matrix):
+		_indexArray = []
+		temp = np.nonzero(matrix.toarray())[1]
+		_indexFreq = collections.Counter(temp)
+		return _indexFreq
